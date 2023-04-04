@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+.mbel-hover-transition-duration-none:hover {
+    transition-duration: 0ms;
+}
+
+/**
+ * Style of selected file system items.
+ */
+.mbel-file-system-item-selected {
+    background-color: var(--mud-palette-action-default-hover) !important;
+}
